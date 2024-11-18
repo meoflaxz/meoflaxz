@@ -60,7 +60,16 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=meoflaxz" alt="Meoflaxz's GitHub stats">
- <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meoflaxz&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=meoflaxz&show_icons=true&theme=gruvbox" alt="Meoflaxz's GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meoflaxz&layout=compact&theme=gruvbox" alt="Top Languages">
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=meoflaxz&theme=gruvbox&hide_border=true" alt="GitHub Streak">
+  </a>
 </p>
+
+
+
+
+
